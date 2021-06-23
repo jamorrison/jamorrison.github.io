@@ -15,6 +15,7 @@ author: Jacob Morrison
 
 navbar-links:
   About Me: "aboutme"
+  Publications: "publications_only_document"
   Contact: "contact"
 
 # --- Logo --- #
