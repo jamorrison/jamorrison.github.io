@@ -10,8 +10,8 @@ Morrison, J. Effect Of New Samples In The T2K Off-Axis Near Detector For The T2K
 GENIE Collaboration., Alam, M., _et al_. GENIE Production Release 2.10.0. (2015). Preprint at <https://arxiv.org/abs/1512.06882v2>
 
 The T2K Collaboration. Abe, K, _et al_. Measurements of
-<span style="text-decoration:overline" <span class="cmmi-10x-x-109">&#x03BD;</span></span><sub><span class="cmmi-8">&#x03BC;</span></sub> and
-<span class="overline"><span class="cmmi-10x-x-109">&#x03BD;</span></span><sub><span class="cmmi-8">&#x03BC;</span></sub> +
+<span style="text-decoration:overline"><span class="cmmi-10x-x-109">&#x03BD;</span></span><sub><span class="cmmi-8">&#x03BC;</span></sub> and
+<span style="text-decoration:overline"><span class="cmmi-10x-x-109">&#x03BD;</span></span><sub><span class="cmmi-8">&#x03BC;</span></sub> +
 <span class="cmmi-10x-x-109">&#x03BD;</span><sub><span class="cmmi-8">&#x03BC;</span></sub>
 charged-current cross-sections without detected pions or protons on water and hydrocarbon at a mean anti-neutrino energy of 0.86 GeV.
 _Prog. Theor. Exp. Phys_. 2021, 4 (2021). <https://doi.org/10.1093/ptep/ptab014>
